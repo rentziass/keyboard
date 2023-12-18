@@ -61,7 +61,7 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings
-                = <&rgb_ug RGB_STATUS>;
+                = <&rgb_ug 15>;
         };
     };
 };
